@@ -1,5 +1,5 @@
-# Fifa 19 exploratory data analysis, importing image files using parallel processing and prediction of value and wage of players
-## Fifa
+# Fifa 19 exploratory data analysis,
+## Importing image files using parallel processing, exploratory data analysis, 2 sample t- tests, prediction of value and wage of players and many more
 Fifa 19 data set contains data of players and their capabilities apart from their general characteristics like age, height, weight, preferred foot.
 Following tasks have been taken up as part of this data analysis
 1. Basic understanding of data set - Includes importing packages, data set, getting column names
